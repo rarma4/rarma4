@@ -1,7 +1,20 @@
 # Olá! Eu sou o Rafael 👋
 
-Desenvolvedor Frontend com foco em **React** e **Next.js**, com experiência também em **PHP/WordPress** e **Node.js**.
-Gosto de transformar ideias em interfaces rápidas, acessíveis e com boa DX.
+Desenvolvedor Front-end, comprometido em criar soluções modernas, funcionais e relevantes. 
+Atualmente, foco meus estudos em Node.js e React, aplicando cada novo conhecimento em projetos práticos ao longo da minha trajetória na área de Tecnologia da Informação.
+
+##  Formação e Estudos
+
+- 🎓 **Bacharel em Sistemas de Informação**
+- 📚 Estudando **JavaScript**, **TypeScript**, **Node.js**, **ReactJS**, **Next.js** e **desenvolvimento fullstack**
+- 🌍 Amplo conhecimento em **páginas PHP** e **WordPress**
+- 🎨 **Designer Gráfico** com experiência em **CorelDraw**, **Photoshop** e **recorte eletrônico**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 🔗 Conecte-se
 - [LinkedIn](https://www.linkedin.com/in/rarma4/)
