@@ -1,4 +1,4 @@
-# Olá! Eu sou o Rafael 👋
+# Olá! Eu sou o Rafael
 
 Desenvolvedor Front-end, comprometido em criar soluções modernas, funcionais e relevantes.  
 Atualmente, foco meus estudos em **Node.js** e **React**, aplicando cada novo conhecimento em projetos práticos ao longo da minha trajetória na área de Tecnologia da Informação.
@@ -10,7 +10,7 @@ Atualmente, foco meus estudos em **Node.js** e **React**, aplicando cada novo co
 - 🌍 Amplo conhecimento em **páginas PHP** e **WordPress**
 - 🎨 **Designer Gráfico** com experiência em **CorelDraw**, **Photoshop** e **recorte eletrônico**
 
-## 🔗 Conecte-se
+## 🔗 Conecte-se Comigo!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rarma4/" target="_blank">
@@ -24,7 +24,7 @@ Atualmente, foco meus estudos em **Node.js** e **React**, aplicando cada novo co
   </a>
 </div>
 
-## 🧰 Tech Stack
+## 🧰 Stack de Tecnologias
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
