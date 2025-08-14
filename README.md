@@ -4,9 +4,9 @@ Desenvolvedor Frontend com foco em **React** e **Next.js**, com experiência tam
 Gosto de transformar ideias em interfaces rápidas, acessíveis e com boa DX.
 
 ## 🔗 Conecte-se
-- LinkedIn: [seu-link](https://www.linkedin.com/in/rarma4/)
-- Portfólio: [seu-site](https://www.rafart.com.br/)
-- E-mail: [seu-email](rarma4@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/rarma4/)
+-  [Portfólio](https://www.rafart.com.br/)
+-  [E-mail](rarma4@gmail.com)
 
 ## 🧰 Tech Stack
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
