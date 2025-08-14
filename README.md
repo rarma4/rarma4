@@ -5,7 +5,7 @@ Atualmente, foco meus estudos em **Node.js** e **React**, aplicando cada novo co
 
 ## 🎓 Formação e Estudos
 
-- **Bacharel em Sistemas de Informação**
+- 🎓 **Bacharel em Sistemas de Informação**
 - 📚 Estudando **JavaScript**, **TypeScript**, **Node.js**, **ReactJS**, **Next.js** e **desenvolvimento fullstack**
 - 🌍 Amplo conhecimento em **páginas PHP** e **WordPress**
 - 🎨 **Designer Gráfico** com experiência em **CorelDraw**, **Photoshop** e **recorte eletrônico**
@@ -52,8 +52,3 @@ Atualmente, foco meus estudos em **Node.js** e **React**, aplicando cada novo co
 </div>
 
 ## 🚀 Projetos em Destaque
-- **Raf'Art** – Site construído para comunicar meus projetos.
-- **cbhkd** – Site para a Confederação Brasileira de Hapkido.
-- **node-mongodb** – API Node.js + MongoDB.
-- **front-mongodb** – Front simples para consumo de API.
-- **rastreioCorreio** – Script PHP para rastrear encomendas nos Correios.
